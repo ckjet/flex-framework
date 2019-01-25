@@ -1,0 +1,24 @@
+{
+  "name": "hypilon/framework",
+  "description": "Hypilon - is a mini framework.",
+  "type": "framework",
+  "authors": [
+    {
+      "name": "Vasiliy Razumov",
+      "email": "vasily@itstably.com"
+    }
+  ],
+  "keywords": [
+    "hypilon", "framework", "fast framework", "hypilon framework"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Hypilon\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
